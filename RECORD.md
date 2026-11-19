@@ -5,4 +5,4 @@
 # Status : Sweetheart 🐷😜
 # Hobby : นอน เล่นกีต้าร์ 🎸💤
 # Favorite Flower : Blue Rose 🌹
-<img src="151249.jpg">
+<img src="151249.jpg" width="200" height="200">
