@@ -3,28 +3,56 @@
 
 # 🌸 My Profile 🌸
 
-<div style="background-color:#FF9999; padding:20px; border-radius:20px;">
+<div style="background-color:#fce4ec; padding:20px; border-radius:20px;">
 
-### Name English
+<div style="border:2px solid #e88bb8; padding:12px; border-radius:15px; margin:10px;">
+
+### 💗 Name English
 Pattraporn Juntawesirisukh 😙💘
 
-### Name Thailand
+</div>
+
+<div style="border:2px solid #c49bea; padding:12px; border-radius:15px; margin:10px;">
+
+### 💐 Name Thailand
 น.ส.ภัทราภรณ์ จันทร์ทวีศิริสุข 💐🫰
 
-### Age
+</div>
+
+<div style="border:2px solid #e88bb8; padding:12px; border-radius:15px; margin:10px;">
+
+### 🎂 Age
 19
 
-### Nick Name
+</div>
+
+<div style="border:2px solid #c49bea; padding:12px; border-radius:15px; margin:10px;">
+
+### 🧸 Nick Name
 Oum
 
-### Status
+</div>
+
+<div style="border:2px solid #e88bb8; padding:12px; border-radius:15px; margin:10px;">
+
+### 💕 Status
 Sweetheart 🐷😜
 
-### Hobby
+</div>
+
+<div style="border:2px solid #c49bea; padding:12px; border-radius:15px; margin:10px;">
+
+### 🎸 Hobby
 นอน เล่นกีต้าร์ 🎸💤
 
-### Favorite Flower
+</div>
+
+<div style="border:2px solid #e88bb8; padding:12px; border-radius:15px; margin:10px;">
+
+### 🌹 Favorite Flower
 Blue Rose 🌹
+
+</div>
 
 </div>
 
